@@ -1,2 +1,2 @@
-# christmas tree
-![christmas tree](chritsmas tree.png).
+# cristsmas tree
+![christmas tree](christmas tree.png)
